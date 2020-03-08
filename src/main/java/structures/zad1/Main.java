@@ -1,4 +1,4 @@
-package structures;
+package structures.zad1;
 
 import java.util.*;
 
